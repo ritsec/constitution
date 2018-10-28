@@ -1,3 +1,6 @@
+# Let's not track the PDF file
+*.pdf
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
