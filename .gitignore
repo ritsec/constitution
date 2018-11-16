@@ -1,3 +1,6 @@
+# Let's not track the PDF file
+*.pdf
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
@@ -123,7 +126,6 @@ acs-*.bib
 
 # knitr
 *-concordance.tex
-# TODO Comment the next line if you want to keep your tikz graphics files
 *.tikz
 *-tikzDictionary
 
@@ -192,10 +194,7 @@ pythontex-files-*/
 *.md5
 *.auxlock
 
-# todonotes
 *.tdo
-
-# easy-todo
 *.lod
 
 # xmpincl
