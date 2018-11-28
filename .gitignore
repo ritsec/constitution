@@ -1,3 +1,7 @@
+# Ignore IDE settings directories
+.vscode/
+.idea/
+
 # Let's not track the PDF file
 *.pdf
 
