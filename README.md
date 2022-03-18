@@ -1,2 +1,2 @@
-# constitution
+# Constitution
 The RITSEC club constitution
