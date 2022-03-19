@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1647611820 "/home/max/Repositories/constitution/constitution.tex" "constitution.pdf" "constitution" 1647611820
+["pdflatex"] 1647613272 "/home/max/Repositories/constitution/constitution.tex" "constitution.pdf" "constitution" 1647613273
   "/home/max/Repositories/constitution/constitution.tex" 1647611811 1208 7ae5d826a55f3098f749d2190e116c2c ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1640600964 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1640600964 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -36,7 +36,7 @@
   "bylaws/programs/02-mentorship.tex" 1643621815 581 0ce2f0ffed29dd6086acd1e3ee3d7e83 ""
   "bylaws/programs/03-redteam.tex" 1645495887 473 03c855e4813c3b509ba3024c9c9113a8 ""
   "bylaws/programs/04-operations.tex" 1643621815 2966 f6dd2adb03c9bc2b5cda9bbe99e3f5e0 ""
-  "constitution.aux" 1647611820 1113 7aea3a7cbf309fa5513dbd07c1646bd2 "pdflatex"
+  "constitution.aux" 1647613272 1113 7aea3a7cbf309fa5513dbd07c1646bd2 "pdflatex"
   "constitution.cls" 1643621815 690 98a9c6db9248ea3f88d7096ac8437b11 ""
   "constitution.tex" 1647611811 1208 7ae5d826a55f3098f749d2190e116c2c ""
   "constitution/article-01.tex" 1647351756 446 c5ac584ac30b554ad0880d02ea303bad ""
@@ -44,9 +44,9 @@
   "constitution/article-03.tex" 1645467164 1220 db7ea458f8ac8c4c219fc327c0988e9a ""
   "constitution/article-04.tex" 1645467164 3492 9317b1ab52adc920df61c4cb6a5177dc ""
   "constitution/article-05.tex" 1645467164 2204 1c966c97dfa62fd6f34337b9ca7a7b52 ""
-  "constitution/article-06.tex" 1647309143 5847 5006bf927c4cfc3a1cb6add52cf9a735 ""
-  "constitution/article-07.tex" 1645495151 2682 d79653b8bbe4e2ba30e1e91fbc35b5ad ""
-  "constitution/article-08.tex" 1647309143 3227 adb49839c50127c6a2dbf205cab7b57c ""
+  "constitution/article-06.tex" 1647612998 5780 7e76a5cad9a95a56abaecbb4880f891f ""
+  "constitution/article-07.tex" 1647612867 2139 71eef03f3347ea14fd43c0a5b4405b58 ""
+  "constitution/article-08.tex" 1647613272 2908 a5ddc21c29d6cdd1f607b5d5984a01e8 ""
   "constitution/article-09.tex" 1647309143 4800 f009ee42f01a257e2942c152874aa13e ""
   "constitution/article-10.tex" 1647611819 4724 165774935fb5e37a508a08b11645659f ""
   "terms.tex" 1647351756 2393 5f4214cc1f443c9b00b47c7bd95936f8 ""
