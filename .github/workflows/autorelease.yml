@@ -1,0 +1,28 @@
+name: Release 
+
+on:
+  push:
+    tags:
+      - "v*"
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Install pdflatex
+      run: sudo apt install texlive texlive-latex-extra -y
+      
+    - name: Build PDF
+      run: make
+
+    - uses: "ncipollo/release-action@v1"
+      with:
+        token: "${{ secrets.GITHUB_TOKEN }}"
+        name: "RITSEC Constitution - ${{ github.ref_name }}"
+        artifacts: "constitution.pdf"
+        generateReleaseNotes: true
+
+
